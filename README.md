@@ -6,7 +6,6 @@ Run calibration.py in Camera_Calibration folder to get the camera parameters for
 <br> You will get the result like the following image:
 ![Screenshot from 2024-04-20 15-15-47](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/96bc001b-4800-41f6-ba3a-d3a0d722a7e7)
 ## Step2
-Follow the instruciton in：https://github.com/Tinker-Twins/AprilTag
 1. $ git clone https://github.com/Tinker-Twins/AprilTag.git
 2. place this script(On_Raspberry_Pi/AprilTag_Detection.py) in this directory~/Desktop/AprilTag/scripts$ 
 3. ~/Desktop/AprilTag$ chmod +x ./install.sh
