@@ -15,6 +15,8 @@ Follow the instruciton in：https://github.com/Tinker-Twins/AprilTag
 6. you will see this result like the following images:
 <br> ![Screenshot from 2024-04-20 15-37-19](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/2742ac78-2d20-4bad-b255-0946c9d9ec5a)
 <br> ![Screenshot from 2024-04-20 15-37-39](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/3b70e621-38fc-4e41-bf34-60b20240dbfa)
+## Step3
+R
 ## On_PC
 ### RUN THIS SCRIPT ON PC!!
 The script in this folder is the controller base on distance and angle variation topics from "On_Raspberry_Pi"
