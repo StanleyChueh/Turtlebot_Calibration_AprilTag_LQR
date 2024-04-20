@@ -19,8 +19,12 @@ Follow the instruciton in：https://github.com/Tinker-Twins/AprilTag
 ## Step3
 Run the script in this directory:(On_PC/controller.py)
 ## Demo
+![Screenshot from 2024-04-20 16-18-16](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/38b5b7ea-aa35-4e2f-9b54-a8c131abcbc0)
 
-
+Following are the videos of different angle. <br>
+1.https://youtube.com/shorts/0O0KmvSdWzU?si=QNJmLeCMe7fS9b95 <br>
+2.https://youtube.com/shorts/TNQPaHkxuaM?si=CKUKYXBqYaNOFerX <br>
+3.https://youtube.com/shorts/TcjzHa8okXQ?si=dLZovFBaN9nTNmqJ
 ## Reference
 AprilTag detection: https://github.com/Tinker-Twins/AprilTag
 <br> Turtlebot: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
