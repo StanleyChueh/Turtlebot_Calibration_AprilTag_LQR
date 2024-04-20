@@ -6,11 +6,29 @@ Run calibration.py in Camera_Calibration folder to get the camera parameters for
 <br> You will get the result like the following image:
 ![Screenshot from 2024-04-20 15-15-47](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/96bc001b-4800-41f6-ba3a-d3a0d722a7e7)
 ## Step2
-1. $ git clone https://github.com/Tinker-Twins/AprilTag.git
-2. place this script(On_Raspberry_Pi/AprilTag_Detection.py) in this directory~/Desktop/AprilTag/scripts$ 
-3. ~/Desktop/AprilTag$ chmod +x ./install.sh
-4. ~/Desktop/AprilTag$ ./install.sh
-5. python3 AprilTag_Detection.py
+1. git clone
+```
+cd Desktop/
+git clone https://github.com/Tinker-Twins/AprilTag.git
+```
+2. Place this script(On_Raspberry_Pi/AprilTag_Detection.py) in this directory
+```
+cd ~/Desktop/AprilTag/scripts
+```
+3. Make it executable
+```
+cd ~/Desktop/AprilTag
+chmod +x ./install.sh
+``` 
+4. Run it
+```
+ cd ~/Desktop/AprilTag
+ ./install.sh
+```
+5. Run AprilTag detection script
+```
+python3 AprilTag_Detection.py
+```
 6. you will see this result like the following images:
 <br> ![Screenshot from 2024-04-20 15-37-19](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/2742ac78-2d20-4bad-b255-0946c9d9ec5a)
 <br> ![Screenshot from 2024-04-20 15-37-39](https://github.com/StanleyChueh/Turtlebot_Calibration_AprilTag_LQR/assets/153347369/3b70e621-38fc-4e41-bf34-60b20240dbfa)
