@@ -8,3 +8,7 @@ The script in this folder is the controller base on distance and angle variation
 ## On_Raspberry_Pi
 ### RUN THIS SCRIPT ON RASPBERRY PI!!
 The script in this folder aim to publish two topisc（distance variation and angle variation)
+## Reference
+AprilTag detection: https://github.com/Tinker-Twins/AprilTag
+<br> Turtlebot: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+<br> ROS2 Foxy: https://docs.ros.org/en/foxy/Installation.html
