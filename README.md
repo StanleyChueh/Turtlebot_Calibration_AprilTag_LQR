@@ -58,3 +58,4 @@ python3 controller.py
 AprilTag detection: https://github.com/Tinker-Twins/AprilTag
 <br> Turtlebot: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 <br> ROS2 Foxy: https://docs.ros.org/en/foxy/Installation.html
+<br> LQR_Control: https://automaticaddison.com/linear-quadratic-regulator-lqr-with-python-code-example/#Conclusion
